@@ -1,0 +1,44 @@
+{
+    "discord": {
+        "selector": "wavebox",
+        "actions": [
+            {
+                "key": "Alt+4"
+            },
+            {
+                "key": "Ctrl+Shift+1"
+            },
+            {
+                "key": "F5"
+            }
+        ]
+    },
+    "qmail": {
+        "selector": "wavebox",
+        "actions": [
+            {
+                "key": "Alt+1"
+            },
+            {
+                "key": "Ctrl+Shift+1"
+            },
+            {
+                "key": "F5"
+            }
+        ]
+    },
+    "outlook": {
+        "selector": "wavebox",
+        "actions": [
+            {
+                "key": "Alt+1"
+            },
+            {
+                "key": "Ctrl+Shift+2"
+            },
+            {
+                "key": "F5"
+            }
+        ]
+    }
+}
